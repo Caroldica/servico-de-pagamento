@@ -2,7 +2,7 @@ Segue um README.md completo para o projeto:
 
 # Serviço de Pagamento
 
-## Descrição
+## Descrição para futuras consultas 
 
 Este projeto implementa uma classe chamada `ServicoDePagamento`, responsável por registrar pagamentos e consultar o último pagamento realizado.
 
@@ -136,6 +136,5 @@ Retorna:
 
 Trabalho desenvolvido para a disciplina de Testes de Software.
 
-GitHub: [https://github.com/SEU-USUARIO](https://github.com/Caroldica)
+GitHub: [https://github.com/Caroldica](https://github.com/Caroldica)
 
-Salve esse conteúdo em um arquivo chamado **README.md** na raiz do projeto (`servico-de-pagamento/README.md`).
