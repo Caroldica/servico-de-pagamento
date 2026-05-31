@@ -136,6 +136,6 @@ Retorna:
 
 Trabalho desenvolvido para a disciplina de Testes de Software.
 
-GitHub: [https://github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
+GitHub: [https://github.com/SEU-USUARIO](https://github.com/Caroldica)
 
 Salve esse conteúdo em um arquivo chamado **README.md** na raiz do projeto (`servico-de-pagamento/README.md`).
